@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Shanksch">
+    <img width="1456" height="720" alt="gitbanner" src="https://github.com/user-attachments/assets/3bbff1cc-dee2-4431-a856-309e6af7cd20" />
+  </a>
+</p>
+
 # Hi, I'm Shashank Chauhan 👋
 
 ### AI Software Engineer building production-ready AI systems.
