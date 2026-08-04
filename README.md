@@ -6,95 +6,50 @@
 
 # Hi, I'm Shashank Chauhan 👋
 
-### AI Software Engineer building production-ready AI systems.
+### Software Engineer • AI
 
-I enjoy building software that combines **Large Language Models, scalable backend engineering, and modern AI infrastructure** to solve real-world problems.
+I build production-ready AI systems by combining **Large Language Models, scalable backend engineering, and modern AI infrastructure**.
 
-Rather than building AI demos, I focus on shipping production-ready products—from browser extensions and RAG pipelines to voice AI and computer vision systems.
+My work focuses on solving real-world problems through intelligent automation—from AI job application copilots and voice interview platforms to computer vision APIs.
+
+---
+
+## What I Build
+
+- 🤖 LLM Applications
+- 🚀 AI Automation Systems
+- 🧠 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI Backends
+- 🎙️ Voice AI Applications
+- 👁️ Computer Vision Systems
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💼 JobSA — AI Job Application Copilot
-
-An AI-powered Chrome Extension and web platform that automates job applications while keeping users in control.
-
-**Highlights**
-
-- Chrome Extension (Manifest V3)
-- Retrieval-Augmented Generation (RAG)
-- FastAPI Backend
-- PostgreSQL + pgvector
-- Supabase Authentication
-- Structured LLM Outputs
-- CI/CD with GitHub Actions
-
-**Links**
-
-- 🔗 GitHub: https://github.com/Shanksch/jobsa
-- 🌐 Live Demo: https://jobsa-web-dashboard.vercel.app/
-
----
-
-### 🎙️ Aimhyr — AI Mock Interview Platform
-
-A voice-powered interview platform that conducts realistic technical interviews using LLMs and conversational AI.
-
-**Highlights**
-
-- Groq Llama Models
-- ElevenLabs Voice Agents
-- Firebase Authentication
-- Structured AI Feedback
-- Next.js + FastAPI
-
-**Links**
-
-- 🔗 GitHub: https://github.com/Shanksch/ai-interview-simulator
-- 🌐 Live Demo: https://ai-interview-simulator-beige.vercel.app/
-
----
-
-### 👁️ Object Detection Studio
-
-Production-ready object detection platform built with a custom-trained YOLOv5 model.
-
-**Highlights**
-
-- Custom YOLOv5 Training
-- FastAPI REST API
-- Docker Deployment
-- Hugging Face Spaces
-- Real-time Inference
-
-**Links**
-
-- 🔗 GitHub: https://github.com/Shanksch/object-detection-project
-- 🌐 Live Demo: https://huggingface.co/spaces/shasha-nks/object-detection-studio
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **JobSA** | AI-powered Chrome extension that automates ATS job applications using RAG and FastAPI. | FastAPI, PostgreSQL, Supabase, Next.js | [GitHub](https://github.com/Shanksch/jobsa) • [Live Demo](https://jobsa-web-dashboard.vercel.app/) |
+| **Aimhyr** | Voice-based AI interview simulator with structured LLM evaluation and conversational AI. | Next.js, Groq, ElevenLabs, Firebase | [GitHub](https://github.com/Shanksch/ai-interview-simulator) • [Live Demo](https://ai-interview-simulator-beige.vercel.app/) |
+| **Object Detection Studio** | Production-ready YOLOv5 inference API with Docker deployment and Hugging Face hosting. | FastAPI, YOLOv5, Docker | [GitHub](https://github.com/Shanksch/object-detection-project) • [Live Demo](https://huggingface.co/spaces/shasha-nks/object-detection-studio) |
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
+**Languages**
 Python • TypeScript • JavaScript • SQL
 
-### AI & Machine Learning
+**AI & Machine Learning**
+LLMs • RAG • PyTorch • TensorFlow • YOLO • Hugging Face • NLP • Computer Vision
 
-LLMs • Retrieval-Augmented Generation (RAG) • Prompt Engineering • PyTorch • TensorFlow • YOLO • Hugging Face • NLP • Computer Vision
+**Backend**
+FastAPI • PostgreSQL • Supabase • SQLAlchemy • REST APIs
 
-### Backend
-
-FastAPI • REST APIs • PostgreSQL • Supabase • SQLAlchemy
-
-### Frontend
-
+**Frontend**
 React • Next.js • Tailwind CSS
 
-### Cloud & DevOps
-
+**Cloud & DevOps**
 Docker • GitHub Actions • Azure • Vercel • Firebase
 
 ---
