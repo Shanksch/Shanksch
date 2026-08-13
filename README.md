@@ -65,6 +65,22 @@ Docker • GitHub Actions • Azure • Vercel • Firebase
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanksch&theme=github-dark&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanksch&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shanksch/Shanksch/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shanksch/Shanksch/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shanksch/Shanksch/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 🎯 Current Focus
@@ -86,3 +102,7 @@ Docker • GitHub Actions • Azure • Vercel • Firebase
 ---
 
 > **Building production-grade AI products—from browser extensions and RAG pipelines to voice AI and computer vision systems.**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
