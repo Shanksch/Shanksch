@@ -64,6 +64,8 @@ System design for AI applications
 <td width="33%" valign="top">
 
 ### JobSA
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fjobsa-web-dashboard.vercel.app%2F&up_message=online&down_message=offline&label=demo&style=flat-square" />
+
 AI-powered Chrome extension that automates ATS job applications using RAG and FastAPI.
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -79,6 +81,8 @@ AI-powered Chrome extension that automates ATS job applications using RAG and Fa
 <td width="33%" valign="top">
 
 ### Aimhyr
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fai-interview-simulator-beige.vercel.app%2F&up_message=online&down_message=offline&label=demo&style=flat-square" />
+
 Voice-based AI interview simulator with structured LLM evaluation and conversational AI.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -94,6 +98,8 @@ Voice-based AI interview simulator with structured LLM evaluation and conversati
 <td width="33%" valign="top">
 
 ### Object Detection Studio
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2Fspaces%2Fshasha-nks%2Fobject-detection-studio&up_message=online&down_message=offline&label=demo&style=flat-square" />
+
 Production-ready YOLOv5 inference API with Docker deployment and Hugging Face hosting.
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -114,12 +120,20 @@ Production-ready YOLOv5 inference API with Docker deployment and Hugging Face ho
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,postgres&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,postgres&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,postgres&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,postgres&theme=dark" />
+  </picture>
 </p>
 
 **AI & Machine Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  </picture>
   <br/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge&logoColor=white" />
@@ -131,7 +145,11 @@ Production-ready YOLOv5 inference API with Docker deployment and Hugging Face ho
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,postgres,supabase&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,postgres,supabase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase&theme=dark" />
+  </picture>
   <br/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logoColor=white" />
@@ -139,13 +157,28 @@ Production-ready YOLOv5 inference API with Docker deployment and Hugging Face ho
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+  </picture>
 </p>
 
 **Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,vercel,firebase&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,azure,vercel,firebase&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,githubactions,azure,vercel,firebase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,vercel,firebase&theme=dark" />
+  </picture>
 </p>
+
+---
+
+## Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
